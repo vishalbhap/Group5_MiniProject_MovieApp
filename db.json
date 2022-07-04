@@ -55,6 +55,13 @@
       "name": "Raj",
       "mobile": "987456",
       "id": 8
+    },
+    {
+      "email": "anurag@gmail.com",
+      "password": "123456",
+      "name": "Anurag",
+      "mobile": "9876543211",
+      "id": 9
     }
   ],
   "movies": [
